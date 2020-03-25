@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "107486985646",
+    "firebase_url": "https://caliwayapp-220512.firebaseio.com",
+    "project_id": "caliwayapp-220512",
+    "storage_bucket": "caliwayapp-220512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107486985646:android:f271dde1c14bc2a1",
+        "android_client_info": {
+          "package_name": "com.caliway.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107486985646-5ddnu0f8ha3d8atej9qn89muohs6d8eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caliway.user",
+            "certificate_hash": "09162e62458fd9d838ce4c3ff3708e5f47d7597a"
+          }
+        },
+        {
+          "client_id": "107486985646-frmt2e63dhjp8ko2mhggbsrnqlj1o3ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXsq8ychsW2ouFCjsx-RRKhbRgocPvuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107486985646-frmt2e63dhjp8ko2mhggbsrnqlj1o3ft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107486985646-j37saseun9t1ek7omppkah22ggkal1pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caliway.user"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107486985646:android:7287c3f7507d26d2",
+        "android_client_info": {
+          "package_name": "com.caliwayconductor.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107486985646-ls7k2rcmh4mtjt6ncqvo0dfj45oboss7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caliwayconductor.driver",
+            "certificate_hash": "09162e62458fd9d838ce4c3ff3708e5f47d7597a"
+          }
+        },
+        {
+          "client_id": "107486985646-frmt2e63dhjp8ko2mhggbsrnqlj1o3ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXsq8ychsW2ouFCjsx-RRKhbRgocPvuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107486985646-frmt2e63dhjp8ko2mhggbsrnqlj1o3ft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107486985646-j37saseun9t1ek7omppkah22ggkal1pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caliway.user"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
